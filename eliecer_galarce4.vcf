@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Galarce Díaz;Eliecer Francisco;;;
+FN:Eliecer Francisco Galarce Díaz
+TITLE:Instructor de Operaciones / Ingeniero Industrial
+ORG:KHSA PSG TRAINING
+TEL;VALUE=uri;TYPE=work:tel:+56 9 2613 0941
+EMAIL;TYPE=work: eliecer.galarce@global.komatsu
+ADR;TYPE=work;LABEL=Av. Américo Vespucio 0631;Quilicura;Santiago;;Chile
+URL;TYPE=work:https://www.komatsulatinoamerica.com/
+NOTE:Cierre de brechas. Formación y estandarización de procedimientos.
+END:VCARD
